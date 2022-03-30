@@ -1,7 +1,8 @@
 ### Hi there, this is xuanxuan's Hub! 👋
 
+![](https://komarev.com/ghpvc/?username=xuan-xuan7&color=ff69b4)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuan-xuan7)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=xuan-xuan7)
 
 
 <!--
